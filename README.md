@@ -51,10 +51,3 @@ Make sure to install these libraries before running the code.
 3. Execute the code cells to perform the preprocessing steps.
 4. The preprocessed data can then be used for further analysis.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
